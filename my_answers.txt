@@ -1,2 +1,7 @@
 test
+<<<<<<< HEAD
 test 2
+=======
+
+haha
+>>>>>>> 6424671 (adding some other text to the notepad)
