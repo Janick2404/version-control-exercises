@@ -1,3 +1,3 @@
 # version-control-exercises
 
-# Hello GitHub
+# Hello GitHub!
